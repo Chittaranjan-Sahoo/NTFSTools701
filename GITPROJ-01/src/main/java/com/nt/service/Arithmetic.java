@@ -4,6 +4,7 @@ public class Arithmetic {
 	
 	public double sum(double x,double y)
 	{
+		//Adding Two Numbers
 		return x+y+0;
 	}
 
